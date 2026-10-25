@@ -1,0 +1,1 @@
+- **feat(providers):** add AtmoRouter as an OpenAI-compatible gateway ([#PR_NUMBER](https://github.com/diegosouzapw/OmniRoute/pull/PR_NUMBER)) — thanks @bayuh85
